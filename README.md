@@ -10,7 +10,7 @@
 ./uptman.py install levm370/PonOS
 ```
 `install` - операция установки\
-`levm370/PonOS` - GitHub репозиторий. Можно любой. *Эт типа https://github.com/levm370/PonOS*.\
+`levm370/PonOS` - GitHub репозиторий. Можно любой. Эт типа https://github.com/levm370/PonOS.
 Так же есть пасхалки:\
 `./uptman.py meow meow` - аналог `apt moo moo`.\
 В этом менеджере уже есть все пакеты, находящиеся в данный момент на GitHub.\
